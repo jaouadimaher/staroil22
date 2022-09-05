@@ -1,0 +1,1 @@
+web: gunicorn Staroil1.wsgi --log-file -
